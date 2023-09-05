@@ -1,4 +1,5 @@
 import Image from "next/image";
+
 export default function Header() {
   return (
     <header className="m-2 py-4 bg-white text-zinc-500 tracking-tighter text-sm columns-3">
